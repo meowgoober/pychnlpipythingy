@@ -1,2 +1,2 @@
 # pychnlpipythingy
-mirror of the pychnl folder from the repo for pip friendly stuff
+get out your supposed to be at pychnl not this
